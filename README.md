@@ -12,9 +12,9 @@ Create a .env file in the root of your backend project and add the following:
 SQL_URL=mysql://USER:PASSWORD@HOST:3306/DATABASE
 
 # ImageKit
-IMAGEKIT_PUBLIC_KEY=your_public_key    
-IMAGEKIT_PRIVATE_KEY=your_private_key       
-IMAGEKIT_URL_ENDPOINT=https://ik.imagekit.io/your_id
+IMAGEKIT_PUBLIC_KEY="public_JVZm4Q0vd5OnutOGxA1zAF74kNc="                    
+IMAGEKIT_PRIVATE_KEY="private_OkUUPucEOyX4qizE+TGsFJG+CO0="                
+IMAGEKIT_URL_ENDPOINT="https://ik.imagekit.io/fvr97tkbi"        
 
 ### Getting Started
 
