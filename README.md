@@ -13,7 +13,7 @@ SQL_URL=mysql://USER:PASSWORD@HOST:3306/DATABASE
 
 # ImageKit
 IMAGEKIT_PUBLIC_KEY=your_public_key    
-IMAGEKIT_PRIVATE_KEY=your_private_key
+IMAGEKIT_PRIVATE_KEY=your_private_key       
 IMAGEKIT_URL_ENDPOINT=https://ik.imagekit.io/your_id
 
 ### Getting Started
